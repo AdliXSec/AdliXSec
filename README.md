@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @AdliXSec
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming and web sec
-- 💞️ I’m looking to collaborate on coding
+- 💙 I’m looking to collaborate on coding
 
 ### How to reach me :
 - Instagram : [Instagram](https://instagram.com/naufalsyaa._)
