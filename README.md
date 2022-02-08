@@ -1,5 +1,7 @@
 # Hi I'm AdliXSec, nice to meet you
 
+## About me
+
 - 👋 Hi, I’m @AdliXSec
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming and web sec
