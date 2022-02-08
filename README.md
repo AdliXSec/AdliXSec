@@ -13,7 +13,7 @@
 ### Tech Stack :
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right">
 
-
+![HTML5](https://img.shields.io/badge/HTML5-%231141f?style=flat&logo=html5&logoColor=%23E34F26)&nbsp;
 <!---
 AdliXSec/AdliXSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
