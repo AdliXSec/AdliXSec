@@ -15,7 +15,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-%231141f?style=flat&logo=html5&logoColor=%23E34F26)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%231141f?style=flat&logo=python&logoColor=%23007ACC)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-%231141f?style=flat&logo=html5&logoColor=%23E34F26)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%231141f?style=flat&logo=php&logoColor=%23777BB4)&nbsp;
 <!---
 AdliXSec/AdliXSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
