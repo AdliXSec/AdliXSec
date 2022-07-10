@@ -8,7 +8,7 @@
 - 💙 I’m looking to collaborate on coding
 
 ## How to reach me :
-- Instagram : [Instagram](https://instagram.com/naufalsyaa._)
+- Instagram : [Instagram](https://instagram.com/adli.adl._)
 
 ## Tech Stack :
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right">
