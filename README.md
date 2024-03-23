@@ -9,6 +9,7 @@
 
 ## How to reach me :
 - Instagram : [Instagram](https://instagram.com/adli.adl._)
+- TikTok    : [TikTok](https://tiktok.com/dlixonly._)
 
 ## Tech Stack :
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right">
