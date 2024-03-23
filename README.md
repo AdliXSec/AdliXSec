@@ -20,6 +20,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-%2311141f?style=flat&logo=php&logoColor=%23777BB4)&nbsp;
 ![MySql](https://img.shields.io/badge/MySql-%2311141f?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-%2311141f?style=flat&logo=arduino&logoColor=cyan)&nbsp;
 
 ![CSS3](https://img.shields.io/badge/CSS3-%2311141f?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![C++](https://img.shields.io/badge/++-%2311141f?style=flat&logo=c&logoColor=1572B6)&nbsp;
