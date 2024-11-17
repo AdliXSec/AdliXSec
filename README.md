@@ -1,6 +1,4 @@
-# Hi I'm AdliXSec, nice to meet you
-
-## Hi there 👋
+# Hi I'm AdliXSec, nice to meet you 👋
 
 <img src="https://profile-counter.glitch.me/AdliXSec/count.svg">
 
