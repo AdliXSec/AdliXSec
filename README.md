@@ -1,5 +1,15 @@
 # Hi I'm AdliXSec, nice to meet you
 
+## Hi there 👋
+
+<img src="https://profile-counter.glitch.me/AdliXSec/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/AdliXSec.svg?style=social&label=Followers)](https://github.com/AdliXSec?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Adli!;I'm+a+Junior+Developer...;I'm+also+learn+JS+API;And+I'm+a+from+Indonesian+in)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=AdliXSec&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 ## About me
 
 - 👋 Hi, I’m @AdliXSec
