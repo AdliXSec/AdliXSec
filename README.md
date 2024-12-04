@@ -16,7 +16,6 @@
 - 💙 I’m looking to collaborate on coding
 
 ## How to reach me :
-- Instagram : [Instagram](https://instagram.com/lixiscode._)
 - TikTok    : [TikTok](https://www.tiktok.com/@dlixonly._)
 
 ## Tech Stack :
