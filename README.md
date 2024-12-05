@@ -17,6 +17,7 @@
 
 ## How to reach me :
 - TikTok    : [TikTok](https://www.tiktok.com/@dlixonly._)
+- Instagram    : [Instagram](https://www.instagram.com/)
 
 ## Tech Stack :
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right">
