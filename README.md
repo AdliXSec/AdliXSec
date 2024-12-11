@@ -14,6 +14,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming and web sec
 - 💙 I’m looking to collaborate on coding
+- 🏫 Telkom University Surabaya
 
 ## How to reach me :
 - TikTok    : [TikTok](https://www.tiktok.com/@dlixonly._)
