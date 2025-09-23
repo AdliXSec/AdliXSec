@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AdliXSec.svg?style=social&label=Followers)](https://github.com/AdliXSec?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+Adli!;I'm+a+Junior+Programmer...;I'm+also+learn+Web+Developer;And+I'm+a+from+Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+Adli!;I'm+a+Junior+Programmer...;I'm+also+learn+Web+Developer-Cyber+Security-IoT;And+I'm+a+from+Indonesia)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AdliXSec&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @AdliXSec
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming and web sec
+- 🌱 I’m currently learning programming and cyber security
 - 💙 I’m looking to collaborate on coding
 - 🏫 Telkom University Surabaya
 
