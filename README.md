@@ -1,6 +1,5 @@
 # Hi I'm AdliXSec, nice to meet you 👋
 
-<img src="https://profile-counter.glitch.me/AdliXSec/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/AdliXSec.svg?style=social&label=Followers)](https://github.com/AdliXSec?tab=followers)
 
