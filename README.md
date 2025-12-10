@@ -59,12 +59,11 @@
 
 <div align="center">
   
-  ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdliXSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="AdliXSec's Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdliXSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  </p>
+[![AdliXSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdliXSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdliXSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
