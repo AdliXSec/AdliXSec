@@ -1,39 +1,87 @@
-# Hi I'm AdliXSec, nice to meet you 👋
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=AdliXSec&fontSize=70&fontAlign=50&fontColor=00f2ff&animation=fadeIn&desc=Security%20Enthusiast%20%26%20Backend%20Developer&descAlign=50&descSize=20" alt="Header" />
+  
+  <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/AdliXSec.svg?style=social&label=Followers)](https://github.com/AdliXSec?tab=followers)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39F0F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Adli+👋;Cyber+Security+Enthusiast;Backend+Developer;Student+at+Telkom+University;LFI+Scanner+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=BLUE&size=30&lines=Hey!+It's+Adli!;I'm+a+Junior+Programmer...;I'm+also+learn+Web+Developer;Cyber+Security;IoT;And+I'm+a+from+Indonesia)](https://git.io/typing-svg)
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AdliXSec&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/AdliXSec?tab=followers">
+    <img src="https://img.shields.io/github/followers/AdliXSec.svg?style=for-the-badge&logo=github&labelColor=181717&color=238636" alt="GitHub followers" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=AdliXSec&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye">
+    <img src="https://komarev.com/ghpvc/?username=AdliXSec&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="views" />
+  </a>
 
-## About me
+</div>
 
-- 👋 Hi, I’m @AdliXSec
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming and cyber security
-- 💙 I’m looking to collaborate on coding
-- 🏫 Telkom University Surabaya
+<hr/>
 
-## How to reach me :
-- TikTok    : [TikTok](https://www.tiktok.com/@dlixonly._)
-- Instagram    : [Instagram](https://www.instagram.com/)
+### 👨‍💻 About Me
 
-## Tech Stack :
-<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
+- 🎓 **Mahasiswa:** Telkom University Surabaya
+- 🔭 **Fokus Saat Ini:** Cyber Security (Red/Blue Team) & Backend Development.
+- 🌱 **Sedang Mempelajari:** Go (Golang), Express.js, dan Web Exploitation.
+- 🛠️ **Project:** Sedang mengembangkan *LeFiMap* (LFI Scanner Tool).
+- ⚡ **Fun Fact:** Saya suka ngoding sambil dengerin musik lo-fi.
 
-![HTML5](https://img.shields.io/badge/HTML5-%2311141f?style=flat&logo=html5&logoColor=%23E34F26)&nbsp;
-![Python](https://img.shields.io/badge/Python-%2311141f?style=flat&logo=python&logoColor=%23007ACC)&nbsp;
-![JavaScript](https://img.shields.io/badge/JS-%2311141f?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+<br clear="right"/>
 
-![PHP](https://img.shields.io/badge/PHP-%2311141f?style=flat&logo=php&logoColor=%23777BB4)&nbsp;
-![MySql](https://img.shields.io/badge/MySql-%2311141f?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-%2311141f?style=flat&logo=arduino&logoColor=cyan)&nbsp;
+<div align="center">
 
-![CSS3](https://img.shields.io/badge/CSS3-%2311141f?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![C++](https://img.shields.io/badge/++-%2311141f?style=flat&logo=c&logoColor=1572B6)&nbsp;
-<!---
-AdliXSec/AdliXSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ### 🛠️ Tech Stack & Tools
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ### 📊 GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdliXSec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="AdliXSec's Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdliXSec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  </p>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+  ### 📫 Connect with Me
+
+  <a href="https://www.tiktok.com/@dlixonly._" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:emailmu@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+</div>
