@@ -4,7 +4,7 @@
   
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39F0F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Adli+👋;Cyber+Security+Enthusiast;Backend+Developer;Student+at+Telkom+University;LFI+Scanner+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39F0F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Adli+👋;Cyber+Security+Enthusiast;Backend+Developer;Student+at+Telkom+University;Internet+of+Things)](https://git.io/typing-svg)
 
   <br/>
 
