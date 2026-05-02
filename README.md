@@ -2,7 +2,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=AdliXSec&fontSize=70&fontAlign=50&fontColor=00f2ff&animation=fadeIn" alt="Header" />
   
-  <br/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39F0F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Adli+👋;Cyber+Security+Enthusiast;Backend+Developer;Student+at+Telkom+University;Internet+of+Things)](https://git.io/typing-svg)
 
